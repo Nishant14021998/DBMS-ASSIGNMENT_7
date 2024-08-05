@@ -1,10 +1,10 @@
 # DBMS-ASSIGNMENT
 **Team Members :**
-Nishant Pandey
-Ria Singh 
-Rahul Govind 
-Anurag Sahu
-Mihir Kumar 
+Nishant Pandey,
+Ria Singh ,
+Rahul Govind ,
+Anurag Sahu,
+Mihir Kumar .
 
 # Titanic Data Preprocessing and Logistic Regression Model
 
@@ -19,16 +19,10 @@ This project preprocesses the Titanic dataset and trains a Logistic Regression m
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/titanic-logistic-regression.git
-   cd titanic-logistic-regression
 Usage
 Place the train.csv file in the project directory. You can download it from Kaggle.
 
-Run the titanic_preprocessing.py script:
-python titanic_preprocessing.py
-
+Run the **dbms_assignment7_group10.py** script:
 This script will:
 
 Load the dataset.
